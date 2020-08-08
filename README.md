@@ -38,7 +38,9 @@
 
 ---
 
-<img align="left" alt="Li's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notRealLi&show_icons=true&hide_border=true&&count_private=true" />
+<img align="left" alt="Li's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notRealLi&show_icons=true&hide_border=true&count_private=true&hide=stars,contribs" />
+
+<img align="left" alt="Li's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notRealLi&show_icons=true&hide_border=true&count_private=true&layout=compact" />
 
 [website]: https://notrealli.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/notrealli/
