@@ -4,7 +4,7 @@
 
 - 🥅 2020 Goals: Learn to draw 🎨
 - 📚 I’m currently learning Three.js, as well as everything else
-- 🤝 I’m collaborating with [👦 This Awesome Person](https://github.com/businessglitch) on a secret project 📐
+- 🤝 I’m collaborating with [👦 This Awesome Person](https://www.linkedin.com/in/fahdhayat/) on a secret project 📐
 
 ### Connect with me:
 
