@@ -1,6 +1,6 @@
 ### Hi there. I'm Li 👋
 
-## I'm interested in 🌐Web Dev, 🔧Artificial 🧠Intelligence and 🎮Game Dev!
+## I'm a Full Spectrum Developer who's interested in 🌐Web Dev, 🔧Artificial 🧠Intelligence and 🎮Game Dev!
 
 - 🥅 2020 Goals: Learn to draw 🎨
 - 📚 I’m currently learning Three.js, as well as everything else
